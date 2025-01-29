@@ -1,12 +1,10 @@
 # Blog Post
 
-> This is just a simple blog post webpage showing the the reason i chose to be a web developer, my passion for the tech industry, my goals and how i can achieve them.
+> This is just a simple blog post webpage, showing why I chose to be a web developer, my passion for the tech industry, my goals, and how those goals can be achieved.
 
 ## 🚀 Live Demo
-[Click here to view the project](https://your-live-demo-link.com)
+[Click here to view the project]([https://your-live-demo-link.com](https://vikiwest.github.io/Blog-Post/))
 
-## 📸 Preview
-![Project Screenshot](https://your-image-link.com)
 
 ## ✨ Features
 - ✅ Feature 1 ( Responsive Design)
